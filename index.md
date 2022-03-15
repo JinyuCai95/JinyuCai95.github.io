@@ -6,7 +6,6 @@ Deep Learning, Unsupervsied Learning, Clustering, Feature Representation
 
 ## News
 
-1. Mar. 2, 2022, one paper were accepted to CVPR2022 (25.3% acceptance rate).
 
 ## Publication
 
