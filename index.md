@@ -1,7 +1,7 @@
 # Welcome to Jinyu Cai's Website
-I am currently a Ph.D. candidate of [College of Computer and Data Science](https://ccds.fzu.edu.cn/) at Fuzhou University. My supervisor is Prof. Wenzhong Guo. Before that I received the bachelor degree in Fuzhou University in July, 2018.
+I am currently a Ph.D. candidate of [College of Computer and Data Science](https://ccds.fzu.edu.cn/) at Fuzhou University. My supervisor is Prof. [Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm). Before that I received the bachelor degree in Fuzhou University in July, 2018.
 
-Now I am currently visiting [Prof. Fan](https://jicongfan.github.io/)'s group as a visiting Ph.D. student in the School of Data Science, The Chinese University of Hong Kong (Shenzhen).
+Now I am currently visiting Prof. [Jicong Fan](https://jicongfan.github.io/)'s group as a visiting Ph.D. student in the School of Data Science, The Chinese University of Hong Kong (Shenzhen).
 
 ## Research Interests
 Deep Learning, Unsupervsied Learning, Clustering, Feature Representation
