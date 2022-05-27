@@ -36,4 +36,4 @@ Deep Learning, Unsupervsied Learning, Clustering, Feature Representation
 
 [8] **Jinyu Cai**, Shiping Wang, Wenzhong Guo. Unsupervised Deep Feature Representation using Adversarial Auto-Encoder. *IEEE International Conference on Industrial Cyber Physical Systems*, pp. 749-754, 2019.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bomi" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&cl=ffffff"></a>
