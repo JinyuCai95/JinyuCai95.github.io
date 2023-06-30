@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-2-6 15:59:00-0400
+date: 2023-6-12 15:59:00-0400
 inline: true
 ---
 
-One paper has been accepted by IEEE Transactions on Multimedia (IF = 8.182)! :sparkles:
+I received the offer of Postdoc research fellow at the National University of Singapore. Looking forward to conducting exciting research on federal learning with Prof. See-Kiong Ng Wong in Singapore!:sparkles:
