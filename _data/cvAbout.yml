@@ -3,42 +3,55 @@
   contents:
     - title: Ph.D.
       institution: College of Computer and Data Science, Fuzhou University, China
-      year: 2021 - now
+      year: 2020 - 2023
       description:
         - Master-doctor combined program without a master degree
         - Supervised by Prof. Wenzhong Guo and Prof. Shiping Wang
     - title: Visiting Student
-      institution: Faculty of Computer Science, University of Vienna, Austria.
-      year: 2022 - 2023
+      institution: School of Data Science, Chinese University of HongKong (Shenzhen), China.
+      year: 2021 - 2022
       description:
-        - Funded by China Scholarship Council (CSC)
-        - Supervised by Prof. Claudia Plant
+        - Supervised by Prof. Jicong Fan
     - title: M.S.
       institution: College of Computer and Data Science, Fuzhou University, China
-      year: 2019 - 2021
+      year: 2018 - 2020
       description:
         - Supervised by Prof. Wenzhong Guo and Prof. Shiping Wang
     - title: B.S.
       institution: College of Mathematics and Computer Science, Fuzhou University, China
-      year: 2015 - 2019
+      year: 2014 - 2018
       description:
-        - Supervised by Prof. Fei Chen
+        - Supervised by Prof. Wenzhong Guo
 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2023
+      items:
+      
+    - year: 2021
       items: 
-        - National Scholarship for Postgraduates
-    - year: 2019 - 2021
+        - National Scholarship for Ph.D. Student, China.
+    - year: 2020
       items: 
-        - The Grand Prize Scholarship for Postgraduates of Fuzhou University
-    - year: 2017 - 2019
+        - Outstanding Freshman Scholarship for Ph.D. Students, Fuzhou University.
+        - Outstanding League Cadres of Fuzhou University.
+        - Excellent Academic Scholarship of Master Students, Fuzhou University.
+    - year: 2019
       items: 
-        - The First Prize Scholarship for Undergraduate Students of Fuzhou University
+        - Research Assistant Scholarship for Master Students of Fuzhou University.
+        - Outstanding Student Cadres of Fuzhou University.
+        - The Third Prize of the "Teddy Cup" Data Mining Challenge for College Students.
+    - year: 2016 - 2018
+      items: 
+        - Outstanding Freshman Scholarship for Master Students, Fuzhou University.
+        - Outstanding League Cadres of Fuzhou University.
+        - Outstanding Student Cadres of Fuzhou University.
+        - Social Work Scholarship of Fuzhou University.
 
 - title: Academic Service
   type: list
   contents:
-    - <u>Reviewer:</u> IEEE TSMC, Information Sciences, Artificial Intelligence Review, etc.
+    - <u>Journal Reviewer:</u> IEEE TPAMI, IEEE TKDE, PR, EAAI, KBS, APIN, etc
+    - <u>Conference Reviewer:</u> NeurIPS 2023, CVPR2023, ICCV2023.
