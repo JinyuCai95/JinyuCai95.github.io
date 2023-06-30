@@ -6,7 +6,7 @@ subtitle: 蔡锦煜, Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College o
 
 profile:
   align: right
-  image: ZhaoliangChen02.jpg
+  image: JinyuCai.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>jinyucai1995[AT]gmail[DOT]com</p>
