@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoc at the Institute of Data Science, National University of Singapore. Before that, I receive my PhD degree at [Fuzhou University](https://ccds.fzu.edu.cn/), supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). From 2021.10-2022.10, I am a visiting student in the School of Data Science, Chinese University of Hong Kong (Shenzhen), China, supervised by [Prof. Jicong Fan](https://jicongfan.github.io/). From 2023.01-2023.06, I am a visiting student in Cooperative AI Lab, King's College London, UK, supervised by [Prof. Yali Du](https://yalidu.github.io/)
+I am currently a Postdoc at the Institute of Data Science, [National University of Singapore](https://www.nus.edu.sg/). Before that, I receive my PhD degree at [Fuzhou University](https://ccds.fzu.edu.cn/), supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). From 2021.10-2022.10, I am a visiting student in the School of Data Science, Chinese University of Hong Kong (Shenzhen), China, supervised by [Prof. Jicong Fan](https://jicongfan.github.io/). From 2023.01-2023.06, I am a visiting student in Cooperative AI Lab, King's College London, UK, supervised by [Prof. Yali Du](https://yalidu.github.io/)
 
 [个人简历（中文）](https://JinyuCai95.github.io/assets/pdf/Curriculum_Vitae_CN.pdf)/ [Curriculum Vitae (English)](https://JinyuCai95.github.io/assets/pdf/Curriculum_Vitae.pdf) (updated at 30/06/2023).
 
