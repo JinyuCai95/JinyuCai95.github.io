@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: My published papers and preprints.
 years: [2025, 2024, 2023, 2022, 2021, 2020]
-nav: false
+nav: True
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
