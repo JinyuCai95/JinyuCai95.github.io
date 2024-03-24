@@ -57,7 +57,24 @@
         - Social Work Scholarship of Fuzhou University.
 
 - title: Academic Service
-  type: list
+  type: nested_list
   contents:
-    - <u>Journal Reviewer:</u> IEEE TPAMI, IEEE TKDE, PR, EAAI, KBS, APIN, etc
-    - <u>Conference Reviewer:</u> NeurIPS 2023, CVPR2023, ICCV2023.
+    - title: <strong>Journal Reviewer:</strong>
+      items: 
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+        - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+        - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+        - Pattern Recognition (PR)
+        - Engineering Applications of Artificial Intelligence (EAAI)
+        - Knowledge-Based Systems (KBS)
+        - Applied Intelligence (APIN)
+    - title: <strong>Conference PC member:</strong>
+      items: 
+        - NeurIPS 2023
+        - ICLR 2024
+        - ICML 2024
+        - IJCAI 2024
+        - CVPR 2023/2024
+        - ICCV 2023/2024
+        - ECCV 2024
+        - ACM MM 2024
