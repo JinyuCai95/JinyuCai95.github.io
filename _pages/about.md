@@ -6,7 +6,7 @@ subtitle: 蔡锦煜, Postdoc, <a href='https://ids.nus.edu.sg/'>Institute of Dat
 
 profile:
   align: right
-  image: JinyuCai.jpg
+  image: JINYU_CAI2.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>jinyucai1995[AT]gmail[DOT]com</p>
