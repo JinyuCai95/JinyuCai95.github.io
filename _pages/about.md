@@ -46,7 +46,7 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - IEEE Transactions on Multimedia (IEEE TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
   - Pattern Recognition
-  - Engineering Applications of Artificial Intelligence
+  - Engineering Applications of Artificial Intelligence 
 - **PC Members**
   - NeurIPS 2023/2024/2025
   - ICML 2024/2025
