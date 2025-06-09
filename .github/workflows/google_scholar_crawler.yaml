@@ -1,37 +1,11 @@
 name: Get Citation Data
- 
+
 on:
-  schedule:
-    - cron: '0 8 * * *'  # 每天 UTC 8点，即新加坡时间 4PM
   workflow_dispatch:
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-setuptools
-          pip3 install -r google_scholar_crawler/requirements.txt
-
-      - name: Run crawler and generate JSON
-        run: |
-          cd google_scholar_crawler
-          python3 main.py
-
-      - name: Push results to google-scholar-stats branch
-        run: |
-          cd google_scholar_crawler/results
-          git init
-          git checkout -b google-scholar-stats
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add *.json
-          git commit -m "Updated Citation Data"
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
-          git push origin google-scholar-stats --force
-        env:
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - name: Confirm GitHub Actions Works
+        run: echo "✅ Hello from GitHub Actions"
