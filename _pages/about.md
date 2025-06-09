@@ -17,60 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoc at the Department of Computer Science, Hong Kong Baptist University, working with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/), [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. William Kwok-Wai Cheung](https://www.comp.hkbu.edu.hk/~william/).
-I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou University, in 2024, supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). Before that, I majored in software engineering and obtained my B.E. degree from the College of Mathematics and Computer Science, Fuzhou University, in 2019. From Oct 2022 to Oct 2023, I was also a joint Ph.D. student in Faculty of Computer Science, University of Vienna, Austria, supervised by [Prof. Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/). My research interests include graph neural networks, optimization-inspired deep learning and their applications (e.g., time series anomaly detection, intelligent power systems, social networks). My studies have led to over 30 scientific publications <a href='https://scholar.google.com/citations?user=LM0QNdQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fchenzl23%2Fchenzl23.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top-tier conferences and journals, including AAAI, ACM MM, IEEE TPAMI, IEEE TNNLS, IEEE TMM, IEEE TSP, ACM TKDD, Information Fusion, Neural Networks, etc.
+Greetings! I am currently a Postdoc at the Institute of Data Science, [National University of Singapore](https://www.nus.edu.sg/), working with [Prof. See-Kiong Ng](https://scholar.google.com/citations?user=_wsommYAAAAJ). Before that, I received my PhD degree at [Fuzhou University](https://ccds.fzu.edu.cn/), supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). From Oct 2021 to Oct 2022, I am a visiting student in the School of Data Science, Chinese University of Hong Kong (Shenzhen), China, supervised by [Prof. Jicong Fan](https://jicongfan.github.io/). From Jan 2023 to June 2023, I am a visiting student in the Cooperative AI Lab, King's College London, UK, supervised by [Prof. Yali Du](https://yalidu.github.io/). My research interests include anomaly detection, deep clustering, graph neural networks, and generative models. My studies have led to over 20 scientific publications <a href='https://scholar.google.com/citations?user=g9TVoA0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJinyuCai95%2FJinyuCai95.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top-tier conferences and journals, including ICML, NeurIPS, ICLR, CVPR, AAAI, IJCAI, ACM MM, IEEE TMM, PR, etc.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by KDD 2025 (CCF-A)!
-- *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025 (CCF-A)! Congrats to Shuman Zhuang!
-- *2024.09*: &nbsp;🎉🎉 I have joined Hong Kong Baptist University and started my postdoctoral research work!
-- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024 (CCF-A)! Congrats to Jielong Lu!
-- *2024.06*: &nbsp;🎉🎉 I have graduated from Fuzhou University as an outstanding doctoral graduate！
-- *2024.05*: &nbsp;🎉🎉 I have successfully passed my doctoral thesis defense! 
+- *2025.05*  &nbsp;🎉🎉 Two papers have been accepted by ICML2025 (CCF-A)! One of them has been selected as a **Spotlight** paper (**top 2.6%** of all submissions). Many thanks to Yunhe and other collaborators.
+- *2025.01*: &nbsp;🎉🎉 I am honored to receive the **Best Research Staff Award** from the Institute of Data Science (IDS), NUS.
+- *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025 (CCF-A) as an **Oral** paper! Congrats to Yunhe.
+- *2024.07*: &nbsp;🎉🎉 One paper regarding federated graph anomaly detection has been accepted by ACM MM 2024 (CCF-A)! Many thanks to Yunhe and other collaborators.
+- *2024.04*: &nbsp;🎉🎉 Three papers have been accepted by IJCAI 2024 (CCF-A)! Many thanks to my collaborators.
+- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by TMM (SCI Q1)! Many thanks to my collaborators.
+- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR2024 (Spotlight)! Congrats to Yunhe and other collaborators.
 
 # 📖 Work Experience
-- *2024.09 - Now*, Postdoc, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
+- *2023.08 - Now*, Postdoc, Institute of Data Science, National University of Singapore, Singapore.
 
 # 📖 Educations
-- *2019.09 - 2024.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
-- *2022.10 - 2023.10*, Joint Ph.D. Student funded by CSC, Faculty of Computer Science, University of Vienna, Austria.
-- *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
-
+- *2018.09 - 2023.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
+- *2023.01 - 2023.06*, Visiting Ph.D. Student, Cooperative AI Lab, King's College London, UK.
+- *2021.10 - 2022.10*, Visiting Ph.D. Student, School of Data Science, Chinese University of HongKong (Shenzhen), China.
+- *2014.09 - 2018.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
 # 📖 Academic Service
 - **Reviewers**
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+  - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
   - IEEE Transactions on Image Processing (IEEE TIP)
   - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   - IEEE Transactions on Multimedia (IEEE TMM)
-  - IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
-  - IEEE Transactions on Systems, Man, and Cybernetics Systems (IEEE TSMC)
-  - IEEE Transactions on Signal Processing (IEEE TSP)
-  - IEEE Signal Processing Letters
+  - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
   - Pattern Recognition
-  - Neural Networks
+  - Engineering Applications of Artificial Intelligence
+  - Knowledge-Based Systems
+  - Applied Intelligence
   - Neural Processing Letters
-  - Artificial Intelligence Review
-  - Knowledge and Information Systems (KAIS)
-  - The Journal of Supercomputing
-  - ACM Transactions on Information Systems (TOIS)
 - **PC Members**
-  - KDD 2025
-  - ICML 2025
-  - CVPR 2025
-  - IJCAI 2025
-  - ACM MM 2024, 2025
+  - NeurIPS 2023/2024/2025
+  - ICML 2024/2025
+  - ICLR 2024/2025
+  - CVPR 2023/2024/2025
+  - ICCV 2023/2025
   - ECCV 2024
-  - NeurIPS 2024
+  - KDD 2024/2025
+  - IJCAI 2024/2025
+  - AAAI 2025
+  - ACM MM 2024
 
 # 📝 Publications 
 
-{% include_relative publication/GNNs.md %}
+{% include_relative publication/AnomalyDetection.md %}
 
-{% include_relative publication/multiview.md %}
-
-{% include_relative publication/matrixCompletion.md %}
-
-{% include_relative publication/others.md %}
+{% include_relative publication/DeepClustering.md %}
 
 # 📎 Links
 - [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
@@ -82,4 +78,4 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 - [Latex Table Generator](https://www.tablesgenerator.com/)
 - [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en): a package for transforming excel tables into latex codes.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=333&t=tt&d=1ulB9ZQGFru21d-WVtCOCUjEViGcsvM4IKn-_xFkYZI&cmn=3e3acc'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&cl=ffffff&w=a"></script>
