@@ -65,7 +65,7 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 
 {% include_relative publication/DeepClustering.md %}
 
-{% include_relative publication/Others.md %}
+{% include_relative publication/others.md %}
 
 # 📎 Links
 - [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
