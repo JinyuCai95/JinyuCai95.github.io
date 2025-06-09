@@ -77,4 +77,4 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 - [Latex Table Generator](https://www.tablesgenerator.com/)
 - [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en): a package for transforming excel tables into latex codes.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=202&t=tt&d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
