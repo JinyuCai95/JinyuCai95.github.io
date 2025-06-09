@@ -1,25 +1,63 @@
 name: Get Citation Data
-  
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 每天 08:00 UTC，即新加坡时间下午 4 点
+  workflow_dispatch:      # 支持手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Install Python dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-setuptools
+          pip3 install scholarly
+
+      - name: Run Google Scholar Crawler
+        run: |
+          mkdir -p google_scholar_crawler/results
+          cat <<EOF > google_scholar_crawler/main.py
+from scholarly import scholarly
+import json
+import os
+from datetime import datetime
+
+author = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+
+author['updated'] = str(datetime.now())
+with open('google_scholar_crawler/results/gs_data.json', 'w') as f:
+    json.dump(author, f, ensure_ascii=False)
+
+badge = {
+    "schemaVersion": 1,
+    "label": "citations",
+    "message": f"{author['citedby']}",
+    "color": "9cf"
+}
+with open('google_scholar_crawler/results/gs_data_shieldsio.json', 'w') as f:
+    json.dump(badge, f)
+EOF
+          python3 google_scholar_crawler/main.py
+
+      - name: Push Results to `google-scholar-stats` Branch
+        run: |
+          cd google_scholar_crawler/results
+
+          git init
+          git checkout -b google-scholar-stats
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+          git add gs_data*.json
+          git commit -m "Update citation data"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          git push origin google-scholar-stats --force
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
