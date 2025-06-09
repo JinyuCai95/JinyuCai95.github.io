@@ -1,11 +1,11 @@
 ## 💡 Anomaly Detection
 
-**[ICML 20205]**
+**[ICML 2025]**
 **[Self-discriminative modeling for anomalous graph detection]**,<br />
    **Jinyu Cai**, Yunhe Zhang, Jicong Fan <br />
    *Proceedings of the International Conference on Machine Learning*. (<span style="color:red">**CCF A**</span>) 
 
-**[ICML 20205]**
+**[ICML 2025]**
 **[Leveraging diffusion model as pseudo-anomalous graph generator for graph-level anomaly detection]**,<br />
    **Jinyu Cai**, Yunhe Zhang, Fusheng Liu, See-Kiong Ng <br />
    *Proceedings of the International Conference on Machine Learning*. (<span style="color:red">**CCF A**</span>) 
