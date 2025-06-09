@@ -1,5 +1,9 @@
 ## 💡 Others
 
+**[IJCAI 2024]**
+**[Kernel readout for graph neural networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**,<br />
+   Jiajun Yu, Zhihao Wu, **Jinyu Cai**, Adele Lu Jia, Jicong Fan <br />
+   *Proceedings of the 33rd International Joint Conference on Artificial Intelligence, Pages 2505-2514, 2024*. (<span style="color:red">**CCF A**</span>)
 
 **[INS]**
 **[Label correction using contrastive prototypical classifier for noisy label learning](https://doi.org/10.1016/j.ins.2023.119647)**,<br />
