@@ -15,7 +15,7 @@
    **Jinyu Cai**, Jicong Fan, Wenzhong Guo, Shiping Wang, Yunhe Zhang, Zhao Zhang  <br />
    *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Pages 1-10, 2022*. (<span style="color:red">**CCF A**</span>) \| [\[code\]]( https://github.com/JinyuCai95/EDESC-pytorch)
 
-**[TMM]**
+**[IEEE TMM]**
 **[Wasserstein embedding learning for deep clustering: A generative approach](https://doi.org/10.1109/TMM.2024.3369862)**,<br />
    **Jinyu Cai**, Yunhe Zhang, Shiping Wang, Jicong Fan, Wenzhong Guo  <br />
    *IEEE Transactions on Multimedia, Volume 26, Pages 7567-7580, 2024*. (<span style="color:red">**SCI Q1 CCF B**</span>)
@@ -35,5 +35,19 @@
    **Jinyu Cai**, Shiping Wang, Chaoyang Xu, Wenzhong Guo  <br />
    *Expert Systems with Applications, Volume 186, 115729, 2021*. (<span style="color:red">**SCI Q1**</span>)
 
+**[IEEE TNSE]**
+**[Towards adaptive masked structural learning for graph-level clustering](https://doi.org/10.1109/TNSE.2025.3543194)**,<br />
+   Jinbin Yang, **Jinyu Cai**, Yunhe Zhang, Sujia Huang, Shiping Wang  <br />
+   *IEEE Transactions on Network Science and Engineering, Volume 12(3), Pages 2021-2032, 2025*. (<span style="color:red">**SCI Q1**</span>)
 
+**[IEEE TCSS]**
+**[Deep masked graph node clustering](https://doi.org/10.1109/TCSS.2024.3401218)**,<br />
+   Jinbin Yang, **Jinyu Cai**, Luying Zhong, Yueyang Pi, Shiping Wang  <br />
+   *EEE Transactions on Computational Social Systems, Volume 11(6), Pages 7257-7270, 2024*. (<span style="color:red">**SCI Q1**</span>)
    
+**[KBS]**
+**[Unsupervised embedded feature learning for deep clustering with stacked sparse auto-encoder](https://doi.org/10.1016/j.knosys.2021.107967)**,<br />
+   Chaoyang Xu, Renjie Lin, **Jinyu Cai**, Shiping Wang  <br />
+   *Knowledge-Based Systems, Volume 238, 107967, 2022*. (<span style="color:red">**SCI Q1**</span>)
+
+
