@@ -47,9 +47,6 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
   - Pattern Recognition
   - Engineering Applications of Artificial Intelligence
-  - Knowledge-Based Systems
-  - Applied Intelligence
-  - Neural Processing Letters
 - **PC Members**
   - NeurIPS 2023/2024/2025
   - ICML 2024/2025
@@ -68,6 +65,8 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 
 {% include_relative publication/DeepClustering.md %}
 
+{% include_relative publication/Others.md %}
+
 # 📎 Links
 - [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
 - [CCF Recommendation List](https://ccf.atom.im/)
@@ -78,4 +77,4 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 - [Latex Table Generator](https://www.tablesgenerator.com/)
 - [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en): a package for transforming excel tables into latex codes.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=202&t=n&d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
