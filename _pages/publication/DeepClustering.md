@@ -23,7 +23,7 @@
 **[NCAA]**
 **[Deep graph-level clustering using pseudo-label-guided mutual information maximization network](https://doi.org/10.1016/j.eswa.2021.115729)**,<br />
    **Jinyu Cai**, Yi Han, Wenzhong Guo, Jicong Fan  <br />
-   *Neural Computing and Applications Volume 36(16), Pages 9551-9566 2024*. (<span style="color:red">**SCI Q1**</span>)
+   *Neural Computing and Applications Volume 36(16), Pages 9551-9566 2024*.
 
 **[PR]**
 **[Unsupervised deep clustering via contractive feature representation and focal loss](https://doi.org/10.1016/j.patcog.2021.108386)**,<br />
