@@ -2,7 +2,7 @@
 
 **[AAAI 2025 Oral]**
 **[Mixture of experts as representation learner for deep multi-view clustering](https://doi.org/10.1609/aaai.v39i21.34430)**,<br />
-   Yunhe Zhang, **Jinyu Cai**, Zhihao Wu, Pengyang Wang, See-Kiong Ng <br />
+   Yunhe Zhang, **Jinyu Cai\***, Zhihao Wu, Pengyang Wang, See-Kiong Ng <br />
    *Proceedings of the AAAI Conference on Artificial Intelligence, Volume 39(21), Pages 22704-22713, 2025*. (<span style="color:red">**CCF A**</span>) 
 
 **[IJCAI 2024]**
