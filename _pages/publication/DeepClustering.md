@@ -37,12 +37,12 @@
 
 **[IEEE TNSE]**
 **[Towards adaptive masked structural learning for graph-level clustering](https://doi.org/10.1109/TNSE.2025.3543194)**,<br />
-   Jinbin Yang, **Jinyu Cai**, Yunhe Zhang, Sujia Huang, Shiping Wang  <br />
+   Jinbin Yang, **Jinyu Cai<sup>†</sup>**, Yunhe Zhang, Sujia Huang, Shiping Wang  <br />
    *IEEE Transactions on Network Science and Engineering, Volume 12(3), Pages 2021-2032, 2025*. (<span style="color:red">**SCI Q1**</span>)
 
 **[IEEE TCSS]**
 **[Deep masked graph node clustering](https://doi.org/10.1109/TCSS.2024.3401218)**,<br />
-   Jinbin Yang, **Jinyu Cai**, Luying Zhong, Yueyang Pi, Shiping Wang  <br />
+   Jinbin Yang, **Jinyu Cai<sup>†</sup>**, Luying Zhong, Yueyang Pi, Shiping Wang  <br />
    *EEE Transactions on Computational Social Systems, Volume 11(6), Pages 7257-7270, 2024*. (<span style="color:red">**SCI Q1**</span>)
    
 **[KBS]**
