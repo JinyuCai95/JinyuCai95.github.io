@@ -57,7 +57,7 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - KDD 2024/2025
   - IJCAI 2024/2025
   - AAAI 2025
-  - ACM MM 2024
+  - ACM MM 2024/2025
 
 # 📝 Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
