@@ -28,16 +28,16 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 - *2024.02*: &nbsp;🎉🎉 One paper has been accepted by TMM (SCI Q1)! Many thanks to my collaborators.
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR2024 (Spotlight)! Congrats to Yunhe and other collaborators.
 
-# 📖 Work Experience
+# 💼 Work Experience
 - *2023.08 - Now*, Postdoc, Institute of Data Science, National University of Singapore, Singapore.
 
-# 📖 Educations
+# 🎓 Educations
 - *2018.09 - 2023.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
 - *2023.01 - 2023.06*, Visiting Ph.D. Student, Cooperative AI Lab, King's College London, UK.
 - *2021.10 - 2022.10*, Visiting Ph.D. Student, School of Data Science, Chinese University of HongKong (Shenzhen), China.
 - *2014.09 - 2018.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
-# 📖 Academic Service
+# 📝 Academic Service
 - **Reviewers**
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
@@ -59,7 +59,7 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - AAAI 2025
   - ACM MM 2024/2025
 
-# 📝 Publications 
+# 📖 Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
 <sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=g9TVoA0AAAAJ" target="_blank">Full List</a>
 </p>
