@@ -6,12 +6,12 @@
    *Advances in Neural Information Processing Systems, 2025*. (<span style="color:red">**CCF A**</span>) 
    
 **[ICML 2025 Spotlight]**
-**Leveraging Diffusion Model as Pseudo-Anomalous Graph Generator for Graph-Level Anomaly Detection**,<br />
+**[Leveraging Diffusion Model as Pseudo-Anomalous Graph Generator for Graph-Level Anomaly Detection](https://openreview.net/pdf?id=Zm2M92TZyO)**,<br />
    **Jinyu Cai**, Yunhe Zhang, Fusheng Liu, See-Kiong Ng <br />
    *Proceedings of the International Conference on Machine Learning, 2025*. (<span style="color:red">**CCF A**</span>) 
 
 **[ICML 2025]**
-**Self-Discriminative Modeling for Anomalous Graph Detection**,<br />
+**[Self-Discriminative Modeling for Anomalous Graph Detection](https://openreview.net/pdf?id=l9DJGAtoAj)**,<br />
    **Jinyu Cai**, Yunhe Zhang, Jicong Fan <br />
    *Proceedings of the International Conference on Machine Learning, 2025*. (<span style="color:red">**CCF A**</span>) 
 
