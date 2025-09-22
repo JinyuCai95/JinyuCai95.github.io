@@ -1,5 +1,10 @@
 ## 💡 Others
 
+**[NeurIPS 2025]**
+**Where Graph Meets Multi-View Learning: Collaborative Graph Mixture of Experts**,<br />
+   Zhihao Wu†, **Jinyu Cai†**, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
+   *Advances in Neural Information Processing Systems, 2025*. (<span style="color:red">**CCF A**</span>) 
+
 **[IJCAI 2024]**
 **[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**,<br />
    Jiajun Yu, Zhihao Wu, **Jinyu Cai**, Adele Lu Jia, Jicong Fan <br />
