@@ -21,6 +21,7 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Two papers have been accepted by NeurIPS'25 (CCF-A)! One of them has been selected as a **Spotlight** paper. Many thanks to all my collaborators.
+- *2025.08*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition (SCI Q1, CCF-B)! Many thanks to my collaborators.
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML'25 (CCF-A)! One of them has been selected as a **Spotlight** paper (**top 2.6%** of all submissions). Many thanks to Yunhe and other collaborators.
 - *2025.01*: &nbsp;🎉🎉 I am honored to receive the **Best Research Staff Award** from the Institute of Data Science (IDS), NUS.
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI'25 (CCF-A) as an **Oral** paper! Congrats to Yunhe.
