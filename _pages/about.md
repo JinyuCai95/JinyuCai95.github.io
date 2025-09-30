@@ -37,7 +37,7 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 - *2018.09 - 2023.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
 - *2023.01 - 2023.06*, Visiting Ph.D. Student, Cooperative AI Lab, King's College London, UK.
 - *2021.10 - 2022.10*, Visiting Ph.D. Student, School of Data Science, Chinese University of HongKong (Shenzhen), China.
-- *2014.09 - 2018.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
+- *2014.09 - 2018.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China.
 
 # 📝 Academic Service
 - **Reviewers**
@@ -47,8 +47,8 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   - IEEE Transactions on Multimedia (IEEE TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
-  - Pattern Recognition
-  - Engineering Applications of Artificial Intelligence 
+  - Pattern Recognition (PR)
+  - Engineering Applications of Artificial Intelligence (EAAI)
 - **PC Members**
   - NeurIPS 2023/2024/2025
   - ICML 2024/2025
