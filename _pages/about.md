@@ -42,8 +42,9 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 # 📝 Academic Service
 - **Reviewers**
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-  - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
   - IEEE Transactions on Image Processing (IEEE TIP)
+  - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
+  - IEEE Transactions on Services Computing (IEEE TSC)
   - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   - IEEE Transactions on Multimedia (IEEE TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
