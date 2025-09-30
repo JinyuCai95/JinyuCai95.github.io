@@ -53,12 +53,12 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - NeurIPS 2023/2024/2025
   - ICML 2024/2025
   - ICLR 2024/2025
-  - CVPR 2023/2024/2025
+  - CVPR 2023/2024/2025/2026
   - ICCV 2023/2025
   - ECCV 2024
   - KDD 2024/2025
   - IJCAI 2024/2025
-  - AAAI 2025
+  - AAAI 2025/2026
   - ACM MM 2024/2025
 
 # 📖 Selected Publications 
