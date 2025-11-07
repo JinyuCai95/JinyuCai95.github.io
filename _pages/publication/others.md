@@ -1,7 +1,7 @@
 ## 💡 Others
 
 **[NeurIPS 2025]**
-**Where Graph Meets Multi-View Learning: Collaborative Graph Mixture of Experts**,<br />
+**Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts**,<br />
    Zhihao Wu<sup>†</sup>, **Jinyu Cai<sup>†</sup>**, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
    *Advances in Neural Information Processing Systems, 2025*. (<span style="color:red">**CCF A**</span>) 
 
