@@ -1,7 +1,12 @@
 ## 💡 Anomaly Detection
 
+**[TPAMI]**
+**[MoEGAD: A Mixture-of-Experts Framework with Pseudo-Anomaly Generation for Graph-Level Anomaly Detection]**,<br />
+   **Jinyu Cai**, Yunhe Zhang, Pengyang Wang, See-Kiong Ng <br />
+   *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026*. (<span style="color:red">**CCF A**</span>) 
+
 **[NeurIPS 2025 Spotlight]**
-**Self-Perturbed Anomaly-Aware Graph Dynamics for Multivariate Time-Series Anomaly Detection**,<br />
+**[Self-Perturbed Anomaly-Aware Graph Dynamics for Multivariate Time-Series Anomaly Detection](https://openreview.net/pdf?id=hJJnwcvE2M)**,<br />
    **Jinyu Cai**, Yuan Xie, Glynnis Lim, Yifang Yin, Roger Zimmermann, See-Kiong Ng <br />
    *Advances in Neural Information Processing Systems, 2025*. (<span style="color:red">**CCF A**</span>) 
    
