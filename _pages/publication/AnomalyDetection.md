@@ -1,7 +1,7 @@
 ## 💡 Anomaly Detection
 
 **[TPAMI]**
-**[MoEGAD: A Mixture-of-Experts Framework with Pseudo-Anomaly Generation for Graph-Level Anomaly Detection]**,<br />
+**[MoEGAD: A Mixture-of-Experts Framework with Pseudo-Anomaly Generation for Graph-Level Anomaly Detection](https://ieeexplore.ieee.org/document/11303598)**,<br />
    **Jinyu Cai**, Yunhe Zhang, Pengyang Wang, See-Kiong Ng <br />
    *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026*. (<span style="color:red">**CCF A**</span>) 
 
