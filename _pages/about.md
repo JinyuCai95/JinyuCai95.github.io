@@ -56,13 +56,13 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - Engineering Applications of Artificial Intelligence (EAAI)
 - **PC Members**
   - NeurIPS 2023/2024/2025
-  - ICML 2024/2025
+  - ICML 2024/2025/2026
   - ICLR 2024/2025/2026
   - CVPR 2023/2024/2025/2026
   - ICCV 2023/2025
-  - ECCV 2024
+  - ECCV 2024/2026
   - KDD 2024/2025/2026
-  - IJCAI 2024/2025
+  - IJCAI 2024/2025/2026
   - AAAI 2025/2026
   - ACM MM 2024/2025
 
