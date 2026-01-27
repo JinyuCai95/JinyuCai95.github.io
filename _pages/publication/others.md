@@ -1,5 +1,10 @@
 ## 💡 Others
 
+**[WWW 2026]**
+**SEAR: LLM-Powered Sequential Recommendation via Fusion of Collaborative, Semantic, and Rating Information**,<br />
+   Wei Guan, Jian Cao, Qiqi Cai, Jianqi Gao, **Jinyu Cai**, See-Kiong Ng <br />
+   *Proceedings of the ACM Web Conference, 2026*. (<span style="color:red">**CCF A**</span>) 
+   
 **[NeurIPS 2025]**
 **Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts**,<br />
    Zhihao Wu<sup>†</sup>, **Jinyu Cai<sup>†</sup>**, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
