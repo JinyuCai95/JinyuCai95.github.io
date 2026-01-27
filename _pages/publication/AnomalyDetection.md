@@ -4,7 +4,12 @@
 **[MoEGAD: A Mixture-of-Experts Framework with Pseudo-Anomaly Generation for Graph-Level Anomaly Detection](https://ieeexplore.ieee.org/document/11303598)**,<br />
    **Jinyu Cai**, Yunhe Zhang, Pengyang Wang, See-Kiong Ng <br />
    *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026*. (<span style="color:red">**CCF A**</span>) 
-
+   
+**[ICLR 2026]**
+**[Escaping the Homophily Trap: A Threshold-free Graph Outlier Detection Framework via Clustering-guided Edge Reweighting](https://ieeexplore.ieee.org/document/11303598)**,<br />
+   Yunhe Zhang, **Jinyu Cai**, Qi Hao, Pengyang Wang, See-Kiong Ng <br />
+   *Proceedings of the International Conference on Learning Representations, 2026*.
+   
 **[NeurIPS 2025 Spotlight]**
 **[Self-Perturbed Anomaly-Aware Graph Dynamics for Multivariate Time-Series Anomaly Detection](https://openreview.net/pdf?id=hJJnwcvE2M)**,<br />
    **Jinyu Cai**, Yuan Xie, Glynnis Lim, Yifang Yin, Roger Zimmermann, See-Kiong Ng <br />
@@ -33,7 +38,7 @@
 **[ICLR 2024]**
 **[Deep Orthogonal Hypersphere Compression for Anomaly Detection](https://openreview.net/pdf?id=cJs4oE4m9Q)**,<br />
    Yunhe Zhang, Yan Sun, **Jinyu Cai**, Jicong Fan  <br />
-   *Proceedings of the 12th International Conference on Learning Representations, 2024*. \| [\[code\]](https://github.com/wownice333/DOHSC-DO2HSC)
+   *Proceedings of the International Conference on Learning Representations, 2024*. \| [\[code\]](https://github.com/wownice333/DOHSC-DO2HSC)
 
 **[NeurIPS 2022]**
 **[Perturbation Learning based Anomaly Detection](https://www.ijcai.org/proceedings/2024/0416.pdf)**,<br />
