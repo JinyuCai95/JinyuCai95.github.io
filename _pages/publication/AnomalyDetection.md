@@ -6,7 +6,7 @@
    *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026*. (<span style="color:red">**CCF A**</span>) 
    
 **[ICLR 2026]**
-**[Escaping the Homophily Trap: A Threshold-free Graph Outlier Detection Framework via Clustering-guided Edge Reweighting]([https://openreview.net/forum?id=Z8f0whjttd](https://openreview.net/pdf?id=Z8f0whjttd))**,<br />
+**[Escaping the Homophily Trap: A Threshold-free Graph Outlier Detection Framework via Clustering-guided Edge Reweighting](https://openreview.net/pdf?id=Z8f0whjttd)**,<br />
    Yunhe Zhang<sup>†</sup>, **Jinyu Cai<sup>†</sup>**, Qi Hao, Pengyang Wang, See-Kiong Ng <br />
    *Proceedings of the International Conference on Learning Representations, 2026*.
    
