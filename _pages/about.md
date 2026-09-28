@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-Greetings! I am currently a Postdoc at the Institute of Data Science, [National University of Singapore](https://www.nus.edu.sg/), working with [Prof. See-Kiong Ng](https://scholar.google.com/citations?user=_wsommYAAAAJ). Before that, I received my PhD degree at [Fuzhou University](https://ccds.fzu.edu.cn/), supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). From Oct 2021 to Oct 2022, I am a visiting student in the School of Data Science, Chinese University of Hong Kong (Shenzhen), China, supervised by [Prof. Jicong Fan](https://jicongfan.github.io/). From Jan 2023 to June 2023, I am a visiting student in the Cooperative AI Lab, King's College London, UK, supervised by [Prof. Yali Du](https://yalidu.github.io/). My research interests include anomaly detection, deep clustering, graph neural networks, and generative models <a href='https://scholar.google.com/citations?user=g9TVoA0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjinyucai95%2Fjinyucai95.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My studies have led to over 20 scientific publications on top-tier conferences and journals, including IEEE TPAMI/TMM, ICML, NeurIPS, ICLR, CVPR, AAAI, IJCAI, ACM MM, PR, etc. 
+Greetings! I am currently a Postdoc at the Institute of Data Science, [National University of Singapore](https://www.nus.edu.sg/), working with [Prof. See-Kiong Ng](https://scholar.google.com/citations?user=_wsommYAAAAJ). Before that, I received my PhD degree at [Fuzhou University](https://ccds.fzu.edu.cn/), supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). From Oct 2021 to Oct 2022, I am a visiting student in the School of Data Science, Chinese University of Hong Kong (Shenzhen), China, supervised by [Prof. Jicong Fan](https://jicongfan.github.io/). From Jan 2023 to June 2023, I am a visiting student in the Cooperative AI Lab, King's College London, UK, supervised by [Prof. Yali Du](https://yalidu.github.io/). My research interests include anomaly detection, deep clustering, graph neural networks, and generative models <a href='https://scholar.google.com/citations?user=g9TVoA0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjinyucai95%2Fjinyucai95.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My studies have led to over 20 scientific publications on top-tier conferences and journals, including IEEE TPAMI/TMM/TSC, ICML, NeurIPS, ICLR, CVPR, AAAI, IJCAI, ACM MM, PR, etc. 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR'26! Congrats to Yunhe.
+- *2026.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS'26 (CCF-A)! Many thanks to my collaborators.
+- *2026.09*: I was invited by ILCR'27 to serve as Area Chair.
+- *2026.09*: &nbsp;🎉🎉 One paper has been accepted by TSC (CCF-A)! Congrats to Wei Guan.
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR'26 (CCF-A)! Congrats to Yunhe.
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by WWW'26 (CCF-A)! Congrats to Wei Guan.
 - *2025.12*: &nbsp;🎉🎉 One paper regarding the exploration of MoE in graph anomaly detection has been accepted by TPAMI (CCF-A)! Many thanks to Yunhe and all the collaborators.
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI'26 (CCF-A)! Congrats to Zhihao Wu.
@@ -32,7 +35,6 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 - *2024.07*: &nbsp;🎉🎉 One paper regarding federated graph anomaly detection has been accepted by ACM MM'24 (CCF-A)! Many thanks to Yunhe and all the collaborators.
 - *2024.04*: &nbsp;🎉🎉 Three papers have been accepted by IJCAI'24 (CCF-A)! Many thanks to my collaborators.
 - *2024.02*: &nbsp;🎉🎉 One paper has been accepted by TMM (SCI Q1)! Many thanks to my collaborators.
-- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR'24 (Spotlight)! Congrats to Yunhe and all the collaborators.
 
 # 💼 Work Experience
 - *2023.08 - Now*, Postdoc, Institute of Data Science, National University of Singapore, Singapore.
@@ -44,6 +46,8 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 - *2014.09 - 2018.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China.
 
 # 📝 Academic Service
+- **Area Chairs**
+  - ICLR 2027
 - **Reviewers**
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
   - IEEE Transactions on Image Processing (IEEE TIP)
@@ -55,16 +59,16 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
   - Pattern Recognition (PR)
   - Engineering Applications of Artificial Intelligence (EAAI)
 - **PC Members**
-  - NeurIPS 2023/2024/2025
+  - NeurIPS 2023/2024/2025/2026
   - ICML 2024/2025/2026
   - ICLR 2024/2025/2026
   - CVPR 2023/2024/2025/2026
   - ICCV 2023/2025
   - ECCV 2024/2026
-  - KDD 2024/2025/2026
+  - KDD 2024/2025/2026/2027
   - IJCAI 2024/2025/2026
-  - AAAI 2025/2026
-  - ACM MM 2024/2025
+  - AAAI 2025/2026/2027
+  - ACM MM 2024/2025/2026
 
 # 📖 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
