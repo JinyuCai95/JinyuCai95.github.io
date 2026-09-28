@@ -4,7 +4,7 @@
 **[MoEGAD: A Mixture-of-Experts Framework with Pseudo-Anomaly Generation for Graph-Level Anomaly Detection](https://ieeexplore.ieee.org/document/11303598)**,<br />
    **Jinyu Cai**, Yunhe Zhang, Pengyang Wang, See-Kiong Ng <br />
    *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026*. (<span style="color:red">**CCF A**</span>) 
-   
+    
 **[ICLR 2026]**
 **[Escaping the Homophily Trap: A Threshold-free Graph Outlier Detection Framework via Clustering-guided Edge Reweighting](https://openreview.net/pdf?id=Z8f0whjttd)**,<br />
    Yunhe Zhang<sup>†</sup>, **Jinyu Cai<sup>†</sup>**, Qi Hao, Pengyang Wang, See-Kiong Ng <br />
