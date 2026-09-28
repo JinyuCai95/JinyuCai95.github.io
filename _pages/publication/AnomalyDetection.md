@@ -8,7 +8,7 @@
 **[ICLR 2026]**
 **[Escaping the Homophily Trap: A Threshold-free Graph Outlier Detection Framework via Clustering-guided Edge Reweighting](https://openreview.net/pdf?id=Z8f0whjttd)**,<br />
    Yunhe Zhang<sup>†</sup>, **Jinyu Cai<sup>†</sup>**, Qi Hao, Pengyang Wang, See-Kiong Ng <br />
-   *Proceedings of the International Conference on Learning Representations, 2026*.
+   *Proceedings of the International Conference on Learning Representations, 2026*. (<span style="color:red">**CCF A**</span>)
    
 **[NeurIPS 2025 Spotlight]**
 **[Self-Perturbed Anomaly-Aware Graph Dynamics for Multivariate Time-Series Anomaly Detection](https://openreview.net/pdf?id=hJJnwcvE2M)**,<br />
@@ -38,7 +38,7 @@
 **[ICLR 2024]**
 **[Deep Orthogonal Hypersphere Compression for Anomaly Detection](https://openreview.net/pdf?id=cJs4oE4m9Q)**,<br />
    Yunhe Zhang, Yan Sun, **Jinyu Cai**, Jicong Fan  <br />
-   *Proceedings of the International Conference on Learning Representations, 2024*. \| [\[code\]](https://github.com/wownice333/DOHSC-DO2HSC)
+   *Proceedings of the International Conference on Learning Representations, 2024*. \| [\[code\]](https://github.com/wownice333/DOHSC-DO2HSC) (<span style="color:red">**CCF A**</span>)
 
 **[NeurIPS 2022]**
 **[Perturbation Learning based Anomaly Detection](https://www.ijcai.org/proceedings/2024/0416.pdf)**,<br />
