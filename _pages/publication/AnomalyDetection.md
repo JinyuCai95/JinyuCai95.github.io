@@ -38,7 +38,7 @@
 **[ICLR 2024]**
 **[Deep Orthogonal Hypersphere Compression for Anomaly Detection](https://openreview.net/pdf?id=cJs4oE4m9Q)**,<br />
    Yunhe Zhang, Yan Sun, **Jinyu Cai**, Jicong Fan  <br />
-   *Proceedings of the International Conference on Learning Representations, 2024*. \| [\[code\]](https://github.com/wownice333/DOHSC-DO2HSC) (<span style="color:red">**CCF A**</span>)
+   *Proceedings of the International Conference on Learning Representations, 2024*. (<span style="color:red">**CCF A**</span>) \| [\[code\]](https://github.com/wownice333/DOHSC-DO2HSC)
 
 **[NeurIPS 2022]**
 **[Perturbation Learning based Anomaly Detection](https://www.ijcai.org/proceedings/2024/0416.pdf)**,<br />
