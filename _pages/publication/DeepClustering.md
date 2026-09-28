@@ -23,7 +23,7 @@
 **[IEEE TMM]**
 **[Wasserstein Embedding Learning for Deep Clustering: A Generative Approach](https://doi.org/10.1109/TMM.2024.3369862)**,<br />
    **Jinyu Cai**, Yunhe Zhang, Shiping Wang, Jicong Fan, Wenzhong Guo  <br />
-   *IEEE Transactions on Multimedia, Volume 26, Pages 7567-7580, 2024*. (<span style="color:red">**SCI Q1 CCF B**</span>)
+   *IEEE Transactions on Multimedia, Volume 26, Pages 7567-7580, 2024*. (<span style="color:red">**SCI Q1 CCF A**</span>)
    
 **[NCAA]**
 **[Deep Graph-Level Clustering using Pseudo-Label-Guided Mutual Information Maximization Network](https://doi.org/10.1016/j.eswa.2021.115729)**,<br />
