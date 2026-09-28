@@ -21,7 +21,7 @@ Greetings! I am currently a Postdoc at the Institute of Data Science, [National 
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS'26 (CCF-A)! Many thanks to my collaborators.
-- *2026.09*: I was invited by ILCR'27 to serve as Area Chair.
+- *2026.09*: I was invited by ICLR'27 to serve as Area Chair.
 - *2026.09*: &nbsp;🎉🎉 One paper has been accepted by TSC (CCF-A)! Congrats to Wei Guan.
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR'26 (CCF-A)! Congrats to Yunhe.
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by WWW'26 (CCF-A)! Congrats to Wei Guan.
